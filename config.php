@@ -14,7 +14,7 @@ $DELETED_DAYS_IMAGES = 6; 	// Giorni mantenimento immagini
 
 
 // Root folder to start scanning
-$SOURCE_FOLDER = '/home/camftpuser/ftp/files';
+$SOURCE_FOLDER = '/your-path/your-ftp-files';
 
 
 // E-Mail Server
