@@ -10,7 +10,7 @@
 
 
 -- Dump della struttura del database anpr
-CREATE DATABASE IF NOT EXISTS `anpr` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
+CREATE DATABASE IF NOT EXISTS `rosrt` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
 USE `anpr`;
 
 -- Dump della struttura di tabella anpr.cam_info
