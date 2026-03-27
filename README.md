@@ -8,6 +8,7 @@ This is a web application I created for Comune di Rosignano Marittimo for its mu
 - Can configure multiple camera groups and users groups
 - Can configure plates watchlists for each user group
 - Can send detected plates notifications to e-mail and/or telegram recipients
+- Supports MFA authentication (only via TOTP)
 - Logs every user activity for privacy/legal purposes
 
 Written in PHP using MariaDB, PHPmailer and BootStrap
