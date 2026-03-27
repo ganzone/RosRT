@@ -13,7 +13,7 @@ This is a web application I created for Comune di Rosignano Marittimo for its mu
 
 Written in PHP using MariaDB, PHPmailer and BootStrap
 
-Uses [Developer-Italia][[https://developers.italia.it] bootstrap web-template
+Uses [Developer-Italia][(https://developers.italia.it) bootstrap web-template
 
 Enjoy !
 
