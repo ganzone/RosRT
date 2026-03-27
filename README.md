@@ -5,6 +5,6 @@ Written in PHP using MariaDB and PHPmailer
 
 Enjoy !
 
-![sgamemain](doc/images/rosrt-screenshot1.png)
+![rosrt-screenshot1](assets/rosrt-screenshot1.png)
 
-![sgamemain](assets/telegram-screenshot1.png)
+![telegram-screenshot1](asssts/telegram-screenshot1.png)
