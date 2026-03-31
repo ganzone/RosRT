@@ -19,7 +19,10 @@ Enjoy !
 
 TODO: A very lot of things! (at least an installation manual :disappointed_relieved: )
 
+Dashboard screenshot:
 
 ![rosrt-screenshot1](assets/rosrt-screenshot1.png)
+
+Telegram notification example:
 
 ![telegram-screenshot1](assets/telegram-screenshot1.png)
